@@ -1,0 +1,14 @@
+﻿@model IEnumerable<TUICoreNet6.ViewModels.VacationVM>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List @ViewBag.Type </h1>
+<div class="row bg-light">
+    @foreach (var item in Model)
+    {
+        @await Html.PartialAsync("DisplayTemplates/_TileView", item)
+
+    }
+</div>

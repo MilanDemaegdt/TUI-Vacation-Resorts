@@ -1,0 +1,30 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.CopyComplete
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\refint\TUI.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\ref\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.deps.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.AssemblyReference.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.AssemblyInfoInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.AssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.csproj.CopyComplete
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\refint\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Repositories\obj\Debug\net6.0\ref\TUI.Repositories.dll

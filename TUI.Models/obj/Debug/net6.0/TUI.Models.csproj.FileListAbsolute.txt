@@ -1,0 +1,24 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\refint\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Models\obj\Debug\net6.0\ref\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.deps.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.csproj.AssemblyReference.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.AssemblyInfoInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.AssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\refint\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\TUI.Models.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Models\obj\Debug\net6.0\ref\TUI.Models.dll

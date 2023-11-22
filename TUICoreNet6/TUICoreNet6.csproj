@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TUI.Models\TUI.Models.csproj" />
+    <ProjectReference Include="..\TUI.Services\TUI.Services.csproj" />
+  </ItemGroup>
+
+</Project>

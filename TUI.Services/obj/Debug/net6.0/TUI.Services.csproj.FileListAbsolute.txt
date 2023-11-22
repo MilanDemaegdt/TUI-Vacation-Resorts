@@ -1,0 +1,34 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.CopyComplete
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\refint\TUI.Services.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUI.Services\obj\Debug\net6.0\ref\TUI.Services.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.deps.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Services.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.AssemblyReference.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.AssemblyInfoInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.AssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.csproj.CopyComplete
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\refint\TUI.Services.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\TUI.Services.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUI.Services\obj\Debug\net6.0\ref\TUI.Services.dll

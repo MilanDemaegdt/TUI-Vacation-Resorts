@@ -1,0 +1,66 @@
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.AssemblyReference.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.AssemblyInfoInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.AssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.CoreCompileInputs.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.RazorAssemblyInfo.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.RazorAssemblyInfo.cs
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\appsettings.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.staticwebassets.runtime.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.exe
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.deps.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.runtimeconfig.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Services.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Services.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\bundle\TUICoreNet6.styles.css
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\TUICoreNet6.bundle.scp.css
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.CopyComplete
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\refint\TUICoreNet6.dll
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.pdb
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.genruntimeconfig.cache
+C:\Users\Christophe.DeWaele\OneDrive - Hogeschool VIVES\MVC\MVC\2023\oefeningen\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\ref\TUICoreNet6.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\appsettings.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.staticwebassets.runtime.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.exe
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.deps.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.runtimeconfig.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUICoreNet6.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Models.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Repositories.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Services.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Models.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Services.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\bin\Debug\net6.0\TUI.Repositories.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.AssemblyReference.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.AssemblyInfoInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.AssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.CoreCompileInputs.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.RazorAssemblyInfo.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.RazorAssemblyInfo.cs
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\bundle\TUICoreNet6.styles.css
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\scopedcss\projectbundle\TUICoreNet6.bundle.scp.css
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.csproj.CopyComplete
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\refint\TUICoreNet6.dll
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.pdb
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\TUICoreNet6.genruntimeconfig.cache
+C:\Users\milan\OneDrive\Bureaublad\TUICoreNet6\TUICoreNet6\obj\Debug\net6.0\ref\TUICoreNet6.dll

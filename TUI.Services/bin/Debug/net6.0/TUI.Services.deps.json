@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TUI.Services/1.0.0": {
+        "dependencies": {
+          "TUI.Models": "1.0.0",
+          "TUI.Repositories": "1.0.0"
+        },
+        "runtime": {
+          "TUI.Services.dll": {}
+        }
+      },
+      "TUI.Models/1.0.0": {
+        "runtime": {
+          "TUI.Models.dll": {}
+        }
+      },
+      "TUI.Repositories/1.0.0": {
+        "dependencies": {
+          "TUI.Models": "1.0.0"
+        },
+        "runtime": {
+          "TUI.Repositories.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TUI.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TUI.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TUI.Repositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

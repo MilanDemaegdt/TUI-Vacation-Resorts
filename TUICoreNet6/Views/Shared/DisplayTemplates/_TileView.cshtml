@@ -1,0 +1,38 @@
+﻿@model TUICoreNet6.ViewModels.VacationVM
+
+@if (Model != null)
+{
+    <div class="col-md-6">
+        <div class="tile">
+            <h1>@Model.NameHotel
+            <span>
+                @for (int i = 0; i < Model.Stars; i++)
+                {<img src="~/Images/star.jpg" />}
+                </span>
+            </h1>
+            <div class="half">
+                <figure class="image">
+                    <img src="~/Images/@Model.Photo" asp-append-version="true">
+                    <div class="block-image block-score">
+                       
+                        <div class="score">@Model.Score</div>
+                    </div>
+
+
+                </figure>
+
+            </div>
+            <div class="half">
+                <div class="btn-group" role="group" aria-label="Basic example">
+                    <button type="button" class="btn btn-secondary">Foto's</button>
+                    <button type="button" class="btn btn-secondary">Bewaren</button>
+                    <button type="button" class="btn btn-secondary">Video</button>
+                </div>
+                <br />
+
+                <p>- @Model.Benefit</p>
+
+            </div>
+        </div>
+    </div>
+}
